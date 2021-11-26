@@ -1,0 +1,78 @@
+.s_in_c {
+  width: 25%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+.s_in_cf {
+  width: 100%;
+  width: 100%;
+  border: 1px solid #cccc;
+  padding: 3em;
+}
+.logoSignin {
+  font-family: "Grand Hotel", cursive;
+  font-size: 50px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.s_in__c_c {
+  margin: 2em auto 1em auto;
+}
+.s_in_c_in {
+  border: 1px solid #cccc;
+  margin: 10px 0;
+  text-align: initial;
+}
+.s_in_c_in > input {
+  border: none;
+  outline: none;
+  padding: 8px 5px;
+}
+
+.den_bnt {
+  padding: 5px;
+  background-color: #0095f6;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+.or_text {
+  font-size: 13px;
+  opacity: 0.5;
+  font-weight: 700;
+}
+.lof_fb {
+  padding: 5px;
+  color: #fff;
+  background-color: #385185;
+  cursor: pointer;
+  font-size: 14px;
+}
+.lof_fb > p {
+  margin: 0;
+}
+.fotgot_text {
+  font-size: 12px;
+  cursor: pointer;
+}
+.signin__text {
+  width: 100%;
+  padding: 0 3em;
+  margin: 1em 0;
+  border: 1px solid #cccc;
+}
+.signin__text > p {
+  font-size: 13px;
+}
+.signin__text > p > span {
+  color: blue;
+  font-weight: 600;
+  cursor: pointer;
+}
